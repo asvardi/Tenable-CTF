@@ -6,7 +6,7 @@ Stay Away Creepy Crawlies:
 Open http://167.71.246.232/robots.txt
 _"A robots. txt file tells search engine crawlers which pages or files the crawler can or can't request from your site. This is used mainly to avoid overloading your site with requests; it is not a mechanism for keeping a web page out of Google."_
 
-![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/stay_away_creepy_crawlers.png?raw=true | width=100)
+![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/stay_away_creepy_crawlers.png?raw=true)
 
 Source of All Evil:
 Check http://167.71.246.232/index.php source code
