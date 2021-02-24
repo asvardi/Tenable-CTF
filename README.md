@@ -115,8 +115,7 @@ Given a pcapng, you can extract supersecure.7z, you will also find the password 
 Within .7z is one flag in a JPEG, as well as a "dataz" file. From hex, from base64 with the chef and you get another JPEG.
 There is an additional flag butter.jpg that can be extracted from the .7z
 
-
-<img src=https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman2.png" width="100" height="100">
+<img src="https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman2.png" width="300" height="300">
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman3.png?raw=true)
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman4.png?raw=true)
 
@@ -182,7 +181,7 @@ It's a QR code!
 Scanned with QR code app.
 
 
-![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/pwntown3flag.png?raw=true)
+![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/pwntwn3flag.png?raw=true)
 
 
 
@@ -191,7 +190,7 @@ Scanned with QR code app.
 Hint about Cistercian monks. Image is the monks shield. Used binwalk to extract second png from within.
 
 
-<img src="https://github.com/asvardi/Tenable-CTF/blob/main/images/shield.png" width="100" height="100">
+<img src="https://github.com/asvardi/Tenable-CTF/blob/main/images/shield.png" width="300" height="300">
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/7839D.png?raw=true)
 
 
@@ -220,7 +219,11 @@ Theres zips nested within zips. Through john at it.. password for zip is a 0. ne
 Made a python script to attempt a 0 or 1 ,unzip, then continue to next turtle and store the binary. Ended up with a picture "key.png" and a 128bit string.
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/key.png?raw=true)
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/binary_aes.png?raw=true)
+
+
 Lots of issues finding a decoder that worked but eventually this site came through: https://cryptii.com/pipes/aes-encryption
+
+
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/turtles.png?raw=true)
 
 ## Others:
