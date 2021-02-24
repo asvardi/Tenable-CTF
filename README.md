@@ -1,7 +1,7 @@
 # Tenable-CTF 2021
-_Lot's of fun Rick&Morty and Cyberpunk references_
+## _Lot's of fun Rick&Morty and Cyberpunk references_
 
-Team GonePhishing
+# Team: GonePhishing
 
 ### Stay Away Creepy Crawlies:
 Open http://167.71.246.232/robots.txt
