@@ -116,8 +116,8 @@ Within .7z is one flag in a JPEG, as well as a "dataz" file. From hex, from base
 There is an additional flag butter.jpg that can be extracted from the .7z
 
 <img src="https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman2.png" width="300" height="300">
-![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman3.png?raw=true)
-![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman4.png?raw=true)
+![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman3.jpg?raw=true)
+![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/hackerman4.jpg?raw=true)
 
 
 
