@@ -101,7 +101,7 @@ Firstly neatened it up, then did a lot of find and replaces for patterns that co
 regex = flag{[a-z_]{8,16}}
 
 
-![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/reggie_regex.png?raw=true)
+![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/reggie_regex.PNG?raw=true)
 
 
 
