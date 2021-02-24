@@ -1,4 +1,4 @@
-Tenable-CTF 2021<a name="TOP"></a>
+# Tenable-CTF 2021
 _Lot's of fun Rick&Morty and Cyberpunk references_
 Team GonePhishing
 
