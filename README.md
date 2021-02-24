@@ -217,6 +217,8 @@ In the end, found similar transmissions through googling. Used app robot32:
 Find a zip called turtles128.zip Hints are that Turtles are the way down (didnt get much help watching the seminar) and also the obvious AES128.
 Theres zips nested within zips. Through john at it.. password for zip is a 0. next password was a 0.. then a 1. Ok looks like we have binary passwords, lets keep these.
 Made a python script to attempt a 0 or 1 ,unzip, then continue to next turtle and store the binary. Ended up with a picture "key.png" and a 128bit string.
+
+
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/key.png?raw=true)
 ![alt text](https://github.com/asvardi/Tenable-CTF/blob/main/images/binary_aes.png?raw=true)
 
